@@ -46,6 +46,7 @@ export class CoreMainMenuProvider {
     static readonly NUM_MAIN_HANDLERS = 4;
     static readonly ITEM_MIN_WIDTH = 72; // Min with of every item, based on 5 items on a 360 pixel wide screen.
     static readonly MORE_PAGE_NAME = 'more';
+    static readonly MORE_PAGE_NAME3 = 'gradebook';
     static readonly MAIN_MENU_HANDLER_BADGE_UPDATED = 'main_menu_handler_badge_updated';
     static readonly MAIN_MENU_VISIBILITY_UPDATED = 'main_menu_visbility_updated';
 
