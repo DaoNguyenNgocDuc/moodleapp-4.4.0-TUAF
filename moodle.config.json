@@ -1,0 +1,85 @@
+{
+    "app_id": "vn.edu.aum.aof",
+    "appname": "AOF-e",
+    "versioncode": 44004,
+    "versionname": "4.4.0",
+    "cache_update_frequency_usually": 420000,
+    "cache_update_frequency_often": 1200000,
+    "cache_update_frequency_sometimes": 3600000,
+    "cache_update_frequency_rarely": 43200000,
+    "default_lang": "vi",
+    "languages": {
+        "en": "English",
+        "vi": "Vietnamese"
+    },
+    "wsservice": "moodle_mobile_app",
+    "demo_sites": {
+        "student": {
+            "url": "https://school.moodledemo.net",
+            "username": "student",
+            "password": "moodle"
+        },
+        "teacher": {
+            "url": "https://school.moodledemo.net",
+            "username": "teacher",
+            "password": "moodle"
+        }
+    },
+    "defaultZoomLevel": "none",
+    "zoomlevels": {
+        "none": 100,
+        "medium": 110,
+        "high": 120
+    },
+    "customurlscheme": "moodlemobile",
+    "sites": [ {
+        "url": "https://aof.aum.edu.vn/"
+      }],
+    "multisitesdisplay": "",
+    "sitefindersettings": {},
+    "onlyallowlistedsites": false,
+    "forcedefaultlanguage": false,
+    "privacypolicy": "https://moodle.net/moodle-app-privacy/",
+    "notificoncolor": "#f98012",
+    "enableanalytics": false,
+    "enableonboarding": true,
+    "forceColorScheme": "",
+    "forceLoginLogo": false,
+    "ioswebviewscheme": "moodleappfs",
+    "appstores": {
+        "android": "com.moodle.moodlemobile",
+        "ios": "id633359593"
+    },
+    "wsrequestqueuelimit": 10,
+    "wsrequestqueuedelay": 100,
+    "calendarreminderdefaultvalue": 3600,
+    "toastDurations": {
+        "short": 2000,
+        "long": 3500,
+        "sticky": 0
+    },
+    "disableTokenFile": false,
+    "iconsPrefixes": {
+        "font-awesome": {
+            "brands": [
+                "fab"
+            ],
+            "regular": [
+                "far"
+            ],
+            "solid": [
+                "fa",
+                "fas"
+            ]
+        },
+        "moodle": {
+            "font-awesome": [
+                "fam"
+            ],
+            "moodle": [
+                "moodle"
+            ]
+        }
+    },
+    "clearIABSessionWhenAutoLogin": "android"
+}
