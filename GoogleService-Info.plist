@@ -3,21 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
-	<string>1038043048179-vu3s3d41pupajncn3b51riu3emgrnp6a.apps.googleusercontent.com</string>
+	<string>859472982443-3gavgajfd7sn67r3t2642a5ivt6s879q.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.1038043048179-vu3s3d41pupajncn3b51riu3emgrnp6a</string>
+	<string>com.googleusercontent.apps.859472982443-3gavgajfd7sn67r3t2642a5ivt6s879q</string>
 	<key>API_KEY</key>
-	<string>AIzaSyD_hNWC_wNSSEb5nfXWM_Xgflpdb_9TPno</string>
+	<string>AIzaSyDtbgVVR1NyxEGF_rAU2szsBoQUTcM-EZ4</string>
 	<key>GCM_SENDER_ID</key>
-	<string>1038043048179</string>
+	<string>859472982443</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>vn.edu.aum.aof</string>
+	<string>vn.edu.aum.tuaf</string>
 	<key>PROJECT_ID</key>
-	<string>thaofapp</string>
+	<string>thtuafapp</string>
 	<key>STORAGE_BUCKET</key>
-	<string>thaofapp.appspot.com</string>
+	<string>thtuafapp.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -29,6 +29,6 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:1038043048179:ios:52a78d0331304770fb6f86</string>
+	<string>1:859472982443:ios:982b66380181bc82f362ee</string>
 </dict>
 </plist>
